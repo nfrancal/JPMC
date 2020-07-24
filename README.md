@@ -1,8 +1,3 @@
-# Personal
-Personal Projects practicing data structures I am not particularly familiar with
-
-Structures I plan on practicing:
-1. Hash tables
-2. BFS and DFS search algorithms
-3. Sliding window algorithms
-4. Further practice with OOP (structs, classes, lists included)
+# JPMC
+JPMorgan Chase Tech Task-3
+Creating a server to client web application that receives stock price information, tracks average ask price, and alerts for triggers to buy or sell.
